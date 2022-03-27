@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 6f2070fb-f851-a302-c3a3-0fdf5a3dfedd
 resourcetype: Document
 title: peer_editing.pdf
 uid: 0594474b-15e5-d1dd-2694-5d637cfa8c83

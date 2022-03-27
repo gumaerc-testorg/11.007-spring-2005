@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 6f2070fb-f851-a302-c3a3-0fdf5a3dfedd
 resourcetype: Document
 title: essay_4.pdf
 uid: 0c7e7e27-7c90-e25f-96fe-197245ead1a2
