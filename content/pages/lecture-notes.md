@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section includes lecture notes which serve as brief summaries of
+  each lecture, and offer questions to promote further discussion.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -51,7 +53,7 @@ Introduction
 Public vs. Private Problems
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lect_2))
+({{% resource_link 112e324e-7016-4e25-dfc8-b5e4bcb97327 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -63,7 +65,7 @@ Public vs. Private Problems
 Policy Goals: Equity, Efficiency (Welfare)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lect_3))
+({{% resource_link e40dc72c-9c9b-8139-1985-264c8df6c81d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -75,7 +77,7 @@ Policy Goals: Equity, Efficiency (Welfare)
 Policy Goals: Security, Liberty (Homeland Security)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lect_4))
+({{% resource_link 98d44702-b7d4-7e41-69a8-535b52748aa0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -87,7 +89,7 @@ Policy Goals: Security, Liberty (Homeland Security)
 Globalization
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lect_5))
+({{% resource_link e92038d7-8575-54b6-5c47-15d5d45f2924 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -117,7 +119,7 @@ Globalization (cont.)
 Ideas and Power in the Policy Process
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lect_7))
+({{% resource_link 00753d61-1bdd-cd44-84ed-02d25af506e2 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -129,7 +131,7 @@ Ideas and Power in the Policy Process
 Defining Problems: Symbols, Numbers and Causes
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lect_8))
+({{% resource_link 5a337a52-6a51-6027-c41c-3cca1165c3e8 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -141,7 +143,7 @@ Defining Problems: Symbols, Numbers and Causes
 Attaching Solutions to Problems: Policy Entrepreneurs & Tipping Points
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lect_9))
+({{% resource_link a4098168-78cf-f1ca-c987-e7fd90b80848 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -153,7 +155,7 @@ Attaching Solutions to Problems: Policy Entrepreneurs & Tipping Points
 Defining Problems: Interests, Experts, and the Media (Health Care)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lect_10))
+({{% resource_link 82e9d5a5-7917-dd6a-5abf-9a60b6c6a1d9 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -165,7 +167,7 @@ Defining Problems: Interests, Experts, and the Media (Health Care)
 Devising Solutions: Rules, Facts, Rights, Power, Inducements
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lect_11))
+({{% resource_link 7f0fbd1e-a9a0-469b-aafc-4cc708a883a1 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -177,7 +179,7 @@ Devising Solutions: Rules, Facts, Rights, Power, Inducements
 Social Security
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lect_12))
+({{% resource_link 085fb5c2-9de6-6ebc-8cd9-dd146f099f64 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -211,7 +213,7 @@ Resolving Disputes in Congress (Taxes)
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lect_14))
+({{% resource_link b7027a8e-d647-02f0-642d-615f33871d5a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -223,7 +225,7 @@ Resolving Disputes in Congress (Taxes)
 Resolving Disputes in Agencies (Endangered Species)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lect_1516))
+({{% resource_link bb6c4d1c-de42-f853-d810-0f5b2996991c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -235,7 +237,7 @@ Resolving Disputes in Agencies (Endangered Species)
 Resolving Disputes in Agencies (cont.)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lect_1516))
+({{% resource_link bb6c4d1c-de42-f853-d810-0f5b2996991c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -247,7 +249,7 @@ Resolving Disputes in Agencies (cont.)
 Resolving Disputes in Courts (School Desegregation)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lect_17))
+({{% resource_link b64022f0-f68c-b6dd-00af-74d4e5ede2a7 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -259,7 +261,7 @@ Resolving Disputes in Courts (School Desegregation)
 Resolving Local Disputes (Hazardous Waste)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lect_18))
+({{% resource_link 81504e25-d6c7-9e6f-d303-26aa50d3b071 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -301,7 +303,7 @@ Adversarial Decision-making Processes
 Direct Democracy: Ballot Initiatives
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lect_21))
+({{% resource_link 012282be-b4e6-8fcd-f08a-bf1ec04d12b5 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -313,7 +315,7 @@ Direct Democracy: Ballot Initiatives
 Resolving Disputes Through Deliberation
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lect_22))
+({{% resource_link ad7ca78d-4ebc-7d81-502e-f963e71426cf "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -325,7 +327,7 @@ Resolving Disputes Through Deliberation
 Negotiated Rulemaking
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lect_23))
+({{% resource_link e79c8983-be44-a0c7-87fe-e704621c1a1d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -337,7 +339,7 @@ Negotiated Rulemaking
 Collaboration / Consensus-Building (Wetlands)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lect_24))
+({{% resource_link cec9c3ad-7a52-9fdf-ad94-33e44bbb8143 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

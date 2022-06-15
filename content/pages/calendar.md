@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contain a week-waise list of lecture topics along with the
+  key dates.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
