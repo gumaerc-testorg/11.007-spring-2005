@@ -5,6 +5,7 @@ file: /courses/11-007-resolving-public-disputes-spring-2005/012282beb4e68fcdf08a
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lect_21.pdf
 uid: 012282be-b4e6-8fcd-f08a-bf1ec04d12b5
 ---
 This resource explains the topic 'decision making by initiative'.
-
