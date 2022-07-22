@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This syllabus section contains course description, course requirement,
+  grading criteria and reading material for the course. It also contains the information
+  about the format of writing essays and notes.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 57460a29-7fb9-e9ed-2760-3607a41ebeae
 ---
