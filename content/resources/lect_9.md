@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains question in policy communities.
 file: /courses/11-007-resolving-public-disputes-spring-2005/a409816878cff1cac987e7fd90b80848_lect_9.pdf
+file_size: 11710
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

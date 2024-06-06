@@ -6,6 +6,7 @@ description: This resource contains instructions about writing essay assignment 
   participants in the Social Security debate define the problem and link a solution
   to that problem.
 file: /courses/11-007-resolving-public-disputes-spring-2005/5b56ad61aee2fabbdb871c3aff1301b5_essay_2.pdf
+file_size: 13713
 file_type: application/pdf
 learning_resource_types:
 - Assignments
