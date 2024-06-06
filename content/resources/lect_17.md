@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains question on judicial court.
 file: /courses/11-007-resolving-public-disputes-spring-2005/b64022f0f68cb6dd00af74d4e5ede2a7_lect_17.pdf
+file_size: 12324
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
