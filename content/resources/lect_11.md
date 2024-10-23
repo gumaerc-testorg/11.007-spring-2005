@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/11-007-resolving-public-disputes-spring-2005/7f0fbd1ea9a0469baafc4cc708a883a1_lect_11.pdf
+file: /ol-ocw-studio-app/courses/11-007-resolving-public-disputes-spring-2005/7f0fbd1ea9a0469baafc4cc708a883a1_lect_11.pdf
 file_size: 16034
 file_type: application/pdf
 learning_resource_types:

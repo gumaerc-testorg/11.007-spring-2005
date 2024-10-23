@@ -6,7 +6,7 @@ description: This resource contains instructions about essay 1. It includes writ
   international trade policy. It also contains some hints about developing the argument,
   style/format to be followed, and information about the source, from where some information
   can be taken.
-file: /courses/11-007-resolving-public-disputes-spring-2005/de65536f100f0a628a637a2a22fbec80_essay_1.pdf
+file: /ol-ocw-studio-app/courses/11-007-resolving-public-disputes-spring-2005/de65536f100f0a628a637a2a22fbec80_essay_1.pdf
 file_size: 13768
 file_type: application/pdf
 learning_resource_types:

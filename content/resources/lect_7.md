@@ -2,7 +2,7 @@
 content_type: resource
 description: THis resource explains the policy process and rational, incremental,
   and garbage-can models.
-file: /courses/11-007-resolving-public-disputes-spring-2005/00753d611bddcd4484ed02d25af506e2_lect_7.pdf
+file: /ol-ocw-studio-app/courses/11-007-resolving-public-disputes-spring-2005/00753d611bddcd4484ed02d25af506e2_lect_7.pdf
 file_size: 11703
 file_type: application/pdf
 learning_resource_types:
