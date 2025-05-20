@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains instructions to be followed by the person who
   is doing the peer review of the assignment. It includes some important major points
   and style points to look for while doing the review.
-file: /ol-ocw-studio-app/courses/11-007-resolving-public-disputes-spring-2005/0594474b15e5d1dd26945d637cfa8c83_peer_editing.pdf
+file: /courses/11-007-resolving-public-disputes-spring-2005/0594474b15e5d1dd26945d637cfa8c83_peer_editing.pdf
 file_size: 18185
 file_type: application/pdf
 learning_resource_types:
