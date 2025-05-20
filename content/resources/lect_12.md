@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains some questions on the topic 'social security'.
-file: /ol-ocw-studio-app/courses/11-007-resolving-public-disputes-spring-2005/085fb5c29de66ebc8cd9dd146f099f64_lect_12.pdf
+file: /courses/11-007-resolving-public-disputes-spring-2005/085fb5c29de66ebc8cd9dd146f099f64_lect_12.pdf
 file_size: 11550
 file_type: application/pdf
 learning_resource_types:
