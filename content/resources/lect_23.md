@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains questions on regulatory negotiation.
-file: /ol-ocw-studio-app/courses/11-007-resolving-public-disputes-spring-2005/e79c8983be44a0c787fee704621c1a1d_lect_23.pdf
+file: /courses/11-007-resolving-public-disputes-spring-2005/e79c8983be44a0c787fee704621c1a1d_lect_23.pdf
 file_size: 10906
 file_type: application/pdf
 learning_resource_types:

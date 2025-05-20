@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource explains and compare the topics 'security and liberty'.
-file: /ol-ocw-studio-app/courses/11-007-resolving-public-disputes-spring-2005/98d44702b7d47e4169a8535b52748aa0_lect_4.pdf
+file: /courses/11-007-resolving-public-disputes-spring-2005/98d44702b7d47e4169a8535b52748aa0_lect_4.pdf
 file_size: 17709
 file_type: application/pdf
 learning_resource_types:
