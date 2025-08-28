@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource gives overview on the topic 'Congressional Decision Making'.
-file: /courses/11-007-resolving-public-disputes-spring-2005/b7027a8ed64702f0642d615f33871d5a_lect_14.pdf
+file: /ol-ocw-studio-app/courses/11-007-resolving-public-disputes-spring-2005/b7027a8ed64702f0642d615f33871d5a_lect_14.pdf
 file_size: 16342
 file_type: application/pdf
 learning_resource_types:

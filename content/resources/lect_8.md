@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains some questions on "Defining Problems", Symbols
   and Numbers, and "Casual Stories".
-file: /courses/11-007-resolving-public-disputes-spring-2005/5a337a526a516027c41c3cca1165c3e8_lect_8.pdf
+file: /ol-ocw-studio-app/courses/11-007-resolving-public-disputes-spring-2005/5a337a526a516027c41c3cca1165c3e8_lect_8.pdf
 file_size: 14979
 file_type: application/pdf
 learning_resource_types:
