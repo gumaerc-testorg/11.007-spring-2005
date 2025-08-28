@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains discussion on topic 'Public vs. Private'.
-file: /courses/11-007-resolving-public-disputes-spring-2005/112e324e70164e25dfc8b5e4bcb97327_lect_2.pdf
+file: /ol-ocw-studio-app/courses/11-007-resolving-public-disputes-spring-2005/112e324e70164e25dfc8b5e4bcb97327_lect_2.pdf
 file_size: 16213
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains question on collabration and provide information
   on 'the san francisco estuary project'.
-file: /courses/11-007-resolving-public-disputes-spring-2005/cec9c3ad7a529fdfad9433e44bbb8143_lect_24.pdf
+file: /ol-ocw-studio-app/courses/11-007-resolving-public-disputes-spring-2005/cec9c3ad7a529fdfad9433e44bbb8143_lect_24.pdf
 file_size: 12035
 file_type: application/pdf
 learning_resource_types:
