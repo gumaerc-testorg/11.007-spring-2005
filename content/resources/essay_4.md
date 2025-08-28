@@ -5,7 +5,7 @@ description: This resource contains instructions about writing essay assignment 
   addresses the following question:To what extent is employing deliberative, consensus-based
   processes to resolve public disputes likely to improve the quality of our public
   decisions?
-file: /courses/11-007-resolving-public-disputes-spring-2005/0c7e7e277c90e25f96fe197245ead1a2_essay_4.pdf
+file: /ol-ocw-studio-app/courses/11-007-resolving-public-disputes-spring-2005/0c7e7e277c90e25f96fe197245ead1a2_essay_4.pdf
 file_size: 17442
 file_type: application/pdf
 learning_resource_types:
