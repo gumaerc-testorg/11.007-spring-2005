@@ -162,29 +162,29 @@ Calmes, Jackie. "Wall Street Quietly Promotes Overhaul of Social Security," *Wal
 
 Material from Websites:
 
-[The Cato Institute](http://www.cato.org/)
+{{% resource_link "b253858f-ee43-4bf2-9f4b-ef0a6d9b3914" "The Cato Institute" %}}
 
-[The Heritage Foundation](http://www.heritage.org/)
+{{% resource_link "69b81209-1359-4b91-8dbc-d9c94c0c9986" "The Heritage Foundation" %}}
 
-[Social Security Reform Center](http://www.socialsecurityreform.org/index.cfm)[The White House](http://www.whitehouse.gov/)
+{{% resource_link "3d54247c-eb85-45c9-9bac-c02fb8fe2612" "Social Security Reform Center" %}}{{% resource_link "02d2b343-1472-456d-869f-2f0f60f40d02" "The White House" %}}
 
-[The Brookings Institution](http://www.brook.edu/)
+{{% resource_link "8b7b0f62-70fb-4e9a-9432-3281453b4d83" "The Brookings Institution" %}}
 
-[The Urban Institute](http://www.urban.org/)
+{{% resource_link "83acfeab-5ee8-4090-94a6-36f2c7daa7cf" "The Urban Institute" %}}
 
-Anrig, Greg. "[Social Security: The Next Generation](http://prospect.org/article/social-security-next-generation)." *The American Prospect Online*. Nov. 6, 2002.
+Anrig, Greg. "{{% resource_link "f897c3dc-8997-4258-9539-c5cdf633fdd8" "Social Security: The Next Generation" %}}." *The American Prospect Online*. Nov. 6, 2002.
 
 Dreyfuss, Robert. "The Biggest Deal: Lobbying to Take Social Security Private." *The American Prospect* 26 (May-June, 1996): 72-75.
 
-Mashaw, Jerry L. and Theodore Marmor, "[The Great Social Security Scare](http://prospect.org/article/great-social-security-scare)." *The American Prospect Online*. Nov. 1, 1996
+Mashaw, Jerry L. and Theodore Marmor, "{{% resource_link "15a2ee5d-c2ac-4fb8-83f7-0981771fc938" "The Great Social Security Scare" %}}." *The American Prospect Online*. Nov. 1, 1996
 
-Kuttner, Robert. "[Rampant Bull](https://prospect.org/features/rampant-bull/)." *The American Prospect Online*. July 1, 1998.
+Kuttner, Robert. "{{% resource_link "714191c5-da01-4fe3-bce0-e1d97949a2da" "Rampant Bull" %}}." *The American Prospect Online*. July 1, 1998.
 
-Quinn, Joseph. "[Social Security on the Table](https://prospect.org/health/social-security-table/)." *The American Prospect* 7, no. 26. (May-June, 1996).
+Quinn, Joseph. "{{% resource_link "3ea83798-b564-4506-b96a-a596bb2e5092" "Social Security on the Table" %}}." *The American Prospect* 7, no. 26. (May-June, 1996).
 
-Kay, Stephen J. "[The Chile Con](https://prospect.org/world/chile-con/)." *The American Prospect Online*. July 1, 1997.
+Kay, Stephen J. "{{% resource_link "3d5c3722-544a-4f23-9503-0ac8f19f5e3c" "The Chile Con" %}}." *The American Prospect Online*. July 1, 1997.
 
-Diamond, Peter and Peter Orszag. "[Social Security: The Right Fix](https://prospect.org/features/social-security-right-fix/)." *The American Prospect Online*. Sept. 22, 2002.
+Diamond, Peter and Peter Orszag. "{{% resource_link "5aef180b-7f9d-4390-8fbb-75e5afbb97e9" "Social Security: The Right Fix" %}}." *The American Prospect Online*. Sept. 22, 2002.
 
 Peterson, Peter G. "Will American Grow Up Before it Grows Old?" (2-part series). *The Atlantic Monthly* 277, no. 5 (May, 1996).
 
